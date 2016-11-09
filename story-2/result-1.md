@@ -1,5 +1,5 @@
 You don't get a job and are left having to pay your debts through huge loans 
 What do you do?
-[Do you move back to your moms]()
+[Do you move back to your moms](result-2)
 
-[Invest in shady companies who are gaining money?]()
+[Do you invest in shady companies who are gaining money?](result-3)
