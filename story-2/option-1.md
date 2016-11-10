@@ -4,5 +4,5 @@ Do you:
 
 [Do you wait out for an opening at the job of your choice](option-2.md)  
 
-[Do you get a job at a corporate bank?](result-1.md)
+[Do you get a job at a corporate bank](result-1.md)
 
